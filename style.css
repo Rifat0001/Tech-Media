@@ -1,6 +1,13 @@
 *{
     font-family: 'Poppins', sans-serif;
 }
+.fa-solid{
+    color: gold;
+}
+.fa-circle-chevron-left , .fa-circle-chevron-right{
+    color: skyblue;
+    font-size: 25px;
+}
 @media screen and (max-width: 576px){
     img.d-block.w-100.opacity-75 {
         height: 500px;
